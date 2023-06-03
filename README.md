@@ -2,14 +2,22 @@
 
 This a python script for Twitter bot that automates tweeting jokes from [API Ninjas](API-ninjas.com/api/jokes)
 
+
 ## Installation
 
-Clone this repo using 
+Clone this repo using
+
 ```bash
 git clone git@github.com:Xevior/Twitter-Jokes-Bot.git
 cd Twitter-Jokes-Bot.git
 pip install -r requirements.txt
 ```
+
+## Screenshot
+
+![Screenshot](screenshot.PNG)
+
+[Follow](https://twitter.com/Banter_mse)
 
 ## Usage
 
